@@ -1,0 +1,7 @@
+{
+  "name": "leapapp",
+  "dependencies": {
+    "leapjs": "^0.6.4",
+    "Physijs": "physijs#*"
+  }
+}
